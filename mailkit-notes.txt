@@ -1,0 +1,33 @@
+MailKit
+
+Plugins will stop functioning
+
+Types of Extensions
+    *Compose*
+    Actions
+    Content Blocking
+    Message security
+
+XCode Mail Extension Template
+
+MeCompose icon and tooltip
+
+viewControllerForSession
+
+MailKit documentation
+
+Email address
+
+Developer Forums: Mail Extensions
+
+Extension Notes
+
+Button for extension: analog clock with a mail paper airplane
+
+Send It Later / MonkeySend?
+
+Plan
+
+Sample MailKit project that I can start with and start tinkering with.
+
+(1) Figure out how to install one of the build mail extensions here.
